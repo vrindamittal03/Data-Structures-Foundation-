@@ -19,3 +19,7 @@ Data Structure Foundation Topics and Questions
 3.1 Toggle String
 3.2 ASCII difference
 3.3 Print all substrings of a string
+
+4. Recursion 
+4.1 Print Increasing
+4.2 Print decreasing
